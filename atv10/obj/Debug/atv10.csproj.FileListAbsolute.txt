@@ -1,7 +1,0 @@
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\bin\Debug\atv10.exe.config
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\bin\Debug\atv10.exe
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\bin\Debug\atv10.pdb
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\obj\Debug\atv10.csproj.AssemblyReference.cache
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\obj\Debug\atv10.csproj.CoreCompileInputs.cache
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\obj\Debug\atv10.exe
-C:\Users\Sara.Jessica\3D Objects\lista5\atv10\obj\Debug\atv10.pdb
