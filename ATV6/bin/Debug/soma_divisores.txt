@@ -1,1 +1,0 @@
-Soma dos divisores: 98
