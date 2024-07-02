@@ -1,0 +1,7 @@
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\bin\Debug\atv2.exe.config
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\bin\Debug\atv2.exe
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\bin\Debug\atv2.pdb
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\obj\Debug\atv2.csproj.AssemblyReference.cache
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\obj\Debug\atv2.csproj.CoreCompileInputs.cache
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\obj\Debug\atv2.exe
+C:\Users\Sara.Jessica\3D Objects\lista6\atv2\obj\Debug\atv2.pdb
