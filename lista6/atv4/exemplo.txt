@@ -1,0 +1,3 @@
+Esta é uma linha de exemplo.
+Outra linha com alguns 'a' e 'A'.
+Mais uma linha com alguns 'a'.
