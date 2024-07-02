@@ -1,7 +1,0 @@
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\bin\Debug\ATV8.exe.config
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\bin\Debug\ATV8.exe
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\bin\Debug\ATV8.pdb
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\obj\Debug\ATV8.csproj.AssemblyReference.cache
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\obj\Debug\ATV8.csproj.CoreCompileInputs.cache
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\obj\Debug\ATV8.exe
-C:\Users\Sara.Jessica\3D Objects\lista6\ATV8\obj\Debug\ATV8.pdb

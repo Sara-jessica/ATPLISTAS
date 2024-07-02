@@ -1,7 +1,0 @@
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\bin\Debug\atv5.exe.config
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\bin\Debug\atv5.exe
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\bin\Debug\atv5.pdb
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\obj\Debug\atv5.csproj.AssemblyReference.cache
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\obj\Debug\atv5.csproj.CoreCompileInputs.cache
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\obj\Debug\atv5.exe
-C:\Users\Sara.Jessica\3D Objects\lista6\atv5\obj\Debug\atv5.pdb
